@@ -1,0 +1,29 @@
+@media (max-width: 1200px) {
+    .title {
+    padding-left: 0;
+    font-size: 280px;
+    }
+    .sidtitle {
+        font-size: 140px;
+        padding-right: 0;
+    }
+
+    .header_img {
+        top: 0;
+    }
+
+}
+
+@media (max-width: 800px) {
+    .title {
+        font-size: 180px;
+        }
+        .sidtitle {
+            font-size: 90px;
+        }
+    
+        .header_top {
+            padding-top: 25px;
+        }
+
+}
